@@ -17,7 +17,7 @@
 
 - **Computer Science Graduate** from the University of Piraeus.
 - I’m currently working on exciting full-stack projects like **Vengo**, **Cinemi** and **School Library**.
-- I’m currently deep-diving into <img src="https://skillicons.dev/icons?i=nextjs,tailwind,react&theme=light" height="15" align="center" /> **Next.js, Tailwind CSS & React Server Components**, alongside <img src="https://skillicons.dev/icons?i=java,spring,supabase&theme=light" height="15" align="center" /> **Java Spring** & **Supabase**.
+- I’m currently deep-diving into <img src="https://skillicons.dev/icons?i=nextjs,tailwind,react&theme=light" height="15" align="center" /> **Next.js, Tailwind CSS & React**, alongside <img src="https://skillicons.dev/icons?i=java,spring,supabase&theme=light" height="15" align="center" /> **Java Spring** & **Supabase**.
 - Reach out to me: **[aggelossakell@gmail.com](mailto:aggelossakell@gmail.com)**
 - Available for new opportunities to leverage my skills and contribute to exciting projects!
 
